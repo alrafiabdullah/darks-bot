@@ -4,7 +4,7 @@ This is my first Discord bot. Initially it was tried in "Noobs Of Valorant" disc
 
 The basic functionalities are:
 
-%hello = Replies Hi\n
-%ping = Replies pong\n
-%info -version/--v = Shows bot version\n
-%info -profile/--p = Shows profile information\n
+<i>%hello = Replies Hi<br>
+%ping = Replies pong<br>
+%info -version/--v = Shows bot version<br>
+%info -profile/--p = Shows profile information<br></i>
