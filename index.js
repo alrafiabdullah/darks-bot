@@ -4,12 +4,12 @@ const PREFIX = '%';
 
 
 var version = 'The Beta Version';
-var channelId = 719473333963325440;
+var channelId = /*Enter your channel ID */;
 var date = new Date().toLocaleTimeString();
 var riotId = "Coming Soon...";
 var dateString = "Created at: " + date;
 
-const token = 'NzE5MTI2MTc1NzkxOTcyNDQz.XtzZeQ._7VIJLcHhIb5aEMk2-6L9FRHLWg';
+const token = /* Enter your token */;
 
 //Sends messages on Interval
 bot.on('ready', () =>{
